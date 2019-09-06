@@ -1,0 +1,13 @@
+git是目前世界上最先进的分布式版本控制系统
+git init初始化一个仓库
+git clone从现有仓库中拷贝项目
+git add命令将文件提交到缓存区
+git status命令可用于查看项目的当前状态
+git diff查看执行git status的结果详细信息
+git commit将缓存区内容添加到仓库中
+使用“-m”选项以在命令行中提供提交注释
+git rm从以跟踪文件清单中移除
+git rm -f强制删除
+git rm -cashed从跟踪清单中移除
+git rm -r递归删除整个目录中的子目录和文件
+git mv命令用于移动或重命名一个件、目录、软连接
